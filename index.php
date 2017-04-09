@@ -1,4 +1,2 @@
 <?php
- print  phpinfo();
-
-?>
+include('templates/html.php');

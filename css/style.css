@@ -1,0 +1,74 @@
+/* Positions*/
+.fixed{ position: fixed; }
+.absolute{ position: absolute; }
+.relative{position: relative;}
+.static{ position: static; }
+/*End position*/
+
+/*Text*/
+
+.text-center{ text-align: center; }
+.text-right{ text-align:right; }
+.text-left{ text-align:left; }
+.text-just{ text-align:justify; }
+.bold     { font-weight: bold; }
+.regular  { font-weight: normal; }
+.italic   { font-style: italic; }
+
+
+/*End text*/
+
+
+/*Display settings*/
+.block{ display: block; }
+.hide{ display: none; }
+.inline{ display: inline;}
+.inline-block{ display: inline-block; }
+
+/*end display*/
+
+
+/*borders*/
+
+.border-one{ border: solid 0px #A69494 }
+
+/*end bordes*/
+
+/*Margin*/
+.mar_0{ margin: 0; }
+.mar_top{ margin: 10px 0px; }
+/*end margin*/
+
+
+/*DEBUG*/
+
+
+.z-top{ z-index: 999999; }
+.w_all{ width: 100%;}
+.bottom{ bottom: 0px }
+
+
+
+
+/*Backgroun colors*/
+.bg-black{background-color: #333;}
+.bg-sblack{background-color: #111;}
+
+
+/*Fonts colors*/
+.f-white{ color: white; }
+.f-s100{ font-size: 100%;     padding: 14px 16px; }
+
+
+
+/*END DEBUG*/
+
+
+
+html { 
+  background: url(http://www.brennanletkeman.com/blog/wp-content/uploads/2012/11/Coffee-Minimalist.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
