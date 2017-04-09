@@ -14,6 +14,10 @@
 
 	<link rel="canonical" href="http://www.lordcoffe.com" />
 	<link rel="shortlink" href="http://www.lordcoffe.com" />
+	<script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+	<script type="text/javascript" src="../js/typed.js"></script>
+	<script type="text/javascript" src="../js/custom.js"></script>
+
 
 
 
