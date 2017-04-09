@@ -101,3 +101,12 @@ html {
     animation: 0;
     transition: opacity .25s;
 }
+
+.lb{
+	margin: 25px 10px 5px 10px;
+	padding: 5px;
+}
+
+.fill-10{
+	padding: 10px;
+}

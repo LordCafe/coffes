@@ -29,6 +29,7 @@
 
 	var Typed = function(el, options) {
 		var self = this;
+		console.log(el );
 
 		// chosen element to manipulate text
 		this.el = el;
