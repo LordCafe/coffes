@@ -21,6 +21,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://www.lordcoffe.com" />
 	<meta property="og:title" content="Lord coffe" />
+	<meta property="og:image" content="http://freedesignfile.com/upload/2016/01/Cup-with-coffee-abstract-illustration-vector-02.jpg" />
 </head>
 
 <body>
